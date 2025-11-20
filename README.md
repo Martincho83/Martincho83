@@ -6,7 +6,7 @@
   </a>
 </p>
 
-Actualmente estudio la carrera de **Licenciatura en Gestión de Tecnologías de la Información (LGTI)**, donde combino mis intereses por la **administración de sistemas, la ciberseguridad y el desarrollo de software**. Busco constantemente crear soluciones tecnológicas robustas, escalables y seguras.
+Soy Analista deSistemas, estudio la carrera de **Licenciatura en Gestión de Tecnologías de la Información (LGTI)**, donde combino mis intereses por la **administración de sistemas, la ciberseguridad y el desarrollo de software**. Busco constantemente crear soluciones tecnológicas robustas, escalables y seguras.
 
 ---
 
