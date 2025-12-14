@@ -6,7 +6,9 @@
   </a>
 </p>
 
-Soy **Analista de Sistemas**, estudio la carrera de **Licenciatura en Gestión de Tecnologías de la Información (LGTI)**, donde combino mis intereses por la **administración de sistemas, la ciberseguridad y el desarrollo de software**. Busco constantemente crear soluciones tecnológicas robustas, escalables y seguras.
+Soy **Analista de Sistemas** con trayectoria en integración tecnológica, automatización, seguridad y modernización de servicios tanto en el sector público como privado. **Desarrollo prototipos funcionales, lidero mejoras operativas y fortalezco la resiliencia de plataformas críticas**.
+
+Complemento mi experiencia con formación continua en ciberseguridad, ciberdefensa y gestión gubernamental, lo que me permite trabajar con una perspectiva estratégica: seguridad, eficiencia, cumplimiento normativo y servicio al ciudadano/cliente.
 
 ---
 
@@ -14,7 +16,7 @@ Soy **Analista de Sistemas**, estudio la carrera de **Licenciatura en Gestión d
 
 | Proyecto | Descripción | Tecnologías Clave |
 | :--- | :--- | :--- |
-| **[NeuroNIDS: Monitor de Amenazas con IA](https://github.com/Martincho83/NeuroNIDS-Project)** | Sistema SaaS de ciberseguridad que utiliza Machine Learning para la detección de intrusos en tiempo real y visualización en la nube (Tesis de Grado). | `Python` `Scikit-Learn` `Streamlit` `Cloud` |
+| **[NeuroNIDS: Monitor de Amenazas con IA](https://github.com/Martincho83/NeuroNIDS-Project)** | Sistema SaaS de ciberseguridad que utiliza Machine Learning para la detección de intrusos en tiempo real y visualización en la nube. | `Python` `Scikit-Learn` `Streamlit` `Cloud` |
 | **[Stack de Monitoreo](https://github.com/Martincho83/stack-monitoreo-prometheus-grafana)** | Observabilidad en tiempo real con Docker, monitoreo de métricas y alertas. | `Docker` `Prometheus` `Grafana` |
 | **[Hardening de Servidor Ubuntu](https://github.com/Martincho83/server-hardening-ubuntu)** | Seguridad en servidores Linux aplicando buenas prácticas de administración y protección básica. | `UFW` `OpenSSH` `Fail2Ban` `Bash` |
 | **[Automatización de Backups](https://github.com/Martincho83/automatizacion-backup-bash-cron)** | Script en Bash para respaldos automáticos de archivos y bases de datos. | `Bash` `Cron` `MySQL` `Tar` |
