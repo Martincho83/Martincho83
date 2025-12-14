@@ -14,9 +14,8 @@ Soy **Analista de Sistemas**, estudio la carrera de **Licenciatura en Gestión d
 
 | Proyecto | Descripción | Tecnologías Clave |
 | :--- | :--- | :--- |
-| **[WordPress en Kubernetes](https://github.com/Martincho83/wordpress-en-kubernetes)** | Despliegue de una aplicación web con estado en un clúster de K8s, resolviendo desafíos de red y almacenamiento persistente. | `Kubernetes` `MicroK8s` `YAML` |
+| **[NeuroNIDS: Monitor de Amenazas con IA](https://github.com/Martincho83/NeuroNIDS-Project)** | Sistema SaaS de ciberseguridad que utiliza Machine Learning para la detección de intrusos en tiempo real y visualización en la nube (Tesis de Grado). | `Python` `Scikit-Learn` `Streamlit` `Cloud` |
 | **[Stack de Monitoreo](https://github.com/Martincho83/stack-monitoreo-prometheus-grafana)** | Observabilidad en tiempo real con Docker, monitoreo de métricas y alertas. | `Docker` `Prometheus` `Grafana` |
-| **[WordPress con Docker](https://github.com/Martincho83/wordpress-con-docker)** | Contenerización de un stack LAMP usando Docker Compose, ideal para ambientes de desarrollo rápidos. | `Docker` `Docker-Compose` `MySQL` |
 | **[Hardening de Servidor Ubuntu](https://github.com/Martincho83/server-hardening-ubuntu)** | Seguridad en servidores Linux aplicando buenas prácticas de administración y protección básica. | `UFW` `OpenSSH` `Fail2Ban` `Bash` |
 | **[Automatización de Backups](https://github.com/Martincho83/automatizacion-backup-bash-cron)** | Script en Bash para respaldos automáticos de archivos y bases de datos. | `Bash` `Cron` `MySQL` `Tar` |
 
