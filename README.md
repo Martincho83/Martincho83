@@ -17,6 +17,7 @@ Complemento mi experiencia con formación continua en ciberseguridad, ciberdefen
 | Proyecto | Descripción | Tecnologías Clave |
 | :--- | :--- | :--- |
 | **[NeuroNIDS: Monitor de Amenazas con IA](https://github.com/Martincho83/NeuroNIDS-Project)** | Sistema SaaS de ciberseguridad que utiliza Machine Learning para la detección de intrusos en tiempo real y visualización en la nube. | `Python` `Scikit-Learn` `Streamlit` `Cloud` |
+| **[Fortia IAM: Auditor de Accesos](https://github.com/Martincho83/Fortia-IAM-Auditor)** | Herramienta de Gestión de Identidades (IAM) que audita robustez de claves y verifica fugas de datos (Leaks) vía API en tiempo real. | `Python` `Criptografía` `NIST` |
 | **[Stack de Monitoreo](https://github.com/Martincho83/stack-monitoreo-prometheus-grafana)** | Observabilidad en tiempo real con Docker, monitoreo de métricas y alertas. | `Docker` `Prometheus` `Grafana` |
 | **[Hardening de Servidor Ubuntu](https://github.com/Martincho83/server-hardening-ubuntu)** | Seguridad en servidores Linux aplicando buenas prácticas de administración y protección básica. | `UFW` `OpenSSH` `Fail2Ban` `Bash` |
 | **[Automatización de Backups](https://github.com/Martincho83/automatizacion-backup-bash-cron)** | Script en Bash para respaldos automáticos de archivos y bases de datos. | `Bash` `Cron` `MySQL` `Tar` |
