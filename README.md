@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Martín, apasionado por la Tecnología, la Seguridad y la Innovación.
+# 👋 Hello! I'm Martín, passionate about Technology, Security and Innovation.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/martinlamas83/" target="_blank">
@@ -6,9 +6,9 @@
   </a>
 </p>
 
-Soy **Analista de Sistemas** con trayectoria en integración tecnológica, automatización, seguridad y modernización de servicios tanto en el sector público como privado. **Desarrollo prototipos funcionales, lidero mejoras operativas y fortalezco la resiliencia de plataformas críticas**.
+I am a **Systems Analyst** with experience in technology integration, automation, security, and service modernization in both the public and private sectors. **I develop functional prototypes, lead operational improvements, and strengthen the resilience of critical platforms.**
 
-Complemento mi experiencia con formación continua en ciberseguridad, ciberdefensa y gestión gubernamental, lo que me permite trabajar con una perspectiva estratégica: seguridad, eficiencia, cumplimiento normativo y servicio al ciudadano/cliente.
+I complement my experience with ongoing training in cybersecurity, cyber defense, and government management, which allows me to work with a strategic perspective: security, efficiency, regulatory compliance, and citizen/client service.
 
 ---
 
