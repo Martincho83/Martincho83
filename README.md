@@ -54,29 +54,23 @@ I complement my experience with ongoing training in cybersecurity, cyber defense
 
 ---
 
-## 📚 Objetivos y Aprendizaje Continuo
+## 📚 Objetivos Estratégicos & Aprendizaje Continuo
 
-🔐 **Seguridad Informática**
-- Aprendiendo técnicas de **pentesting**, **auditoría** y **seguridad defensiva**.
-- En preparación para rendir la **certificación CompTIA Security+**.
-
-☁️ **Arquitecturas Modernas**
-- Profundizando en **microservicios**, contenedores y despliegue en la nube.
-- Explorando herramientas como **Ansible**, **Terraform** y **CI/CD**.
-
-🧠 **Desarrollo Profesional**
-- Mejorando mi **nivel de inglés técnico**.
-- Colaborando en proyectos open-source y desarrollando soluciones reales con impacto.
+### 🔐 Ciberseguridad
+- Formación activa en **pentesting**, **auditoría** y **seguridad defensiva**  
+- Preparación para la **certificación CompTIA Security+**  
+- Enfoque *security-first* aplicado al desarrollo y la infraestructura
 
 ---
 
-## 📈 GitHub Stats
+### ☁️ Arquitecturas Modernas
+- Profundización en **microservicios**, **infraestructura como código** y despliegues en la nube  
+- Exploración de **Terraform**, **Ansible** y pipelines avanzados de **CI/CD**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Martincho83&show_icons=true&theme=dracula&count_private=true" alt="Estadísticas de Martín en GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martincho83&layout=compact&theme=dracula" alt="Lenguajes más usados por Martín" />
-</p>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Martincho83&label=Visitas%20al%20perfil&color=blue&style=flat" />
-</p>
+### 🚀 Desarrollo Profesional
+- Mejora continua de **inglés técnico**
+- Participación en **proyectos open-source**
+- Desarrollo de soluciones reales orientadas a negocio
+- Visión a largo plazo: evolución hacia **roles estratégicos en IT**
